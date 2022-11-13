@@ -8,7 +8,7 @@ This is a small game made with [`sfml`](https://www.sfml-dev.org) and `c++ 17`.
 
 You can download the latest release, it contains all the necessary files to play.
 
-Or you can compile it yourself using `cmake`.
+Or you can compile it yourself using `cmake` and installing [`sfml`](https://www.sfml-dev.org) as dependency in the project.
 
 ## Modifications
 
