@@ -1,0 +1,9 @@
+cmake-build-debug
+cmake-build-release
+include
+lib
+!cmake-build-debug/sounds
+!cmake-build-debug/icon.png
+!cmake-build-debug/pieces.png
+!cmake-build-debug/openal32.dll
+!cmake-build-debug/retro.ttf
