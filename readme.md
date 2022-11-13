@@ -2,13 +2,13 @@
 
 This is a small game made with [`sfml`](https://www.sfml-dev.org) and `c++ 17`.
 
-image goes here
+<img src="https://user-images.githubusercontent.com/79871802/201511197-470df02c-413f-47f0-a75e-118f5299a760.png" alt="image" height="250px"/>
 
 ## Downloading
 
 You can download the latest release, it contains all the necessary files to play.
 
-Or you can compile it yourself using `cmake`.
+Or you can compile it yourself using `cmake` and installing [`sfml`](https://www.sfml-dev.org) as dependency in the project.
 
 ## Modifications
 
